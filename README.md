@@ -1,4 +1,4 @@
-# 🧠 Multi-Agent Instagram Content Creation (CrewAI)
+# Multi-Agent Instagram Content Creation (CrewAI)
 
 🚀 **Google Colab Notebook Link:**  
 https://colab.research.google.com/drive/1Rdkp3GFSQMnWLQ_2SB4lvsv3GdJ1QEx5
