@@ -1,10 +1,10 @@
 # Multi-Agent Instagram Content Creation (CrewAI)
 
-🚀 **Google Colab Notebook Link:**  
-https://colab.research.google.com/drive/1Rdkp3GFSQMnWLQ_2SB4lvsv3GdJ1QEx5
-
 ## 📌 Overview
 A **CrewAI-based multi-agent system** that automates Instagram content creation by researching a topic, writing and reviewing captions, and generating image prompts for AI image generation.
+
+## Google Colab Notebook Link: 
+https://colab.research.google.com/drive/1Rdkp3GFSQMnWLQ_2SB4lvsv3GdJ1QEx5
 
 ## 🧩 Agents
 - **Research Agent** – Gathers key information from web using TAVILY
